@@ -1,2 +1,2 @@
-title:RPVV A-6 Paschim Vihar
-periods:8
+title:School name
+periods:6
