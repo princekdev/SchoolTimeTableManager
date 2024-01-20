@@ -1227,8 +1227,8 @@ root.title("Time Table Management")
 # root.iconbitmap(default="Software icon.ico")
 
 # centering the window
-win_w=1215
-win_h=500
+win_w=970
+win_h=420
 screen_w=root.winfo_screenwidth()
 screen_h=root.winfo_screenheight()
 center_x=int(screen_w/2-win_w/2)
