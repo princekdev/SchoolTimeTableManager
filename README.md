@@ -1,5 +1,5 @@
 <h2 align="center">
-  Time Table Management System<br/>
+  Time Table Manager<br/>
 </h2>
 <div align="center">
   <img alt="Demo" src="README/createTimeTable.png" />
@@ -12,9 +12,9 @@
     <a href="https://github.com/princekdev/schooltimetablemanager/issues">Request Feature</a>
 </h3>
 
-## Built With
+## Built
 
-A Python application that seamlessly manages the time table for school considering the needs with an efficient mechanism to handle classes, subjects and teachers and to develop time-table on a regular basis. Implemented feature for effortlessly generating time-table pdf to be attached on the notice board.
+A Python application that seamlessly manages the time table for school considering the needs with an efficient mechanism to handle classes, subjects, teachers and to develop time-table on a regular basis. Implemented feature for effortlessly generating time-table pdf to be attached on the notice board.
 
 This project was built using these technologies.
 
@@ -28,6 +28,8 @@ This project was built using these technologies.
 **🔨 Made with Python**
 
 **📄 GUI application**
+
+**💻 Minimal setup**
 
 ## Getting Started
 
