@@ -47,8 +47,8 @@ This project was built using these technologies.
 
 3. Customise `Teachers`, `Classes` and `Subjects`
 
-<img width="70%" alt="Demo" src="README/mainMenu.png" />
-<img width="70%" alt="Demo" src="README/editSubjects.png" />
+<img alt="Demo" src="README/mainMenu.png" />
+<img alt="Demo" src="README/editSubjects.png" />
 
 4. Setup a regular basis time table in `Regular`
 
@@ -56,15 +56,15 @@ This project was built using these technologies.
 
 6. Check or uncheck on the basis of availability for the day. Select day of the week and click `Continue`.
 
-<img width="70%" alt="Demo" src="README/setRegularTimeTable.png" />
-<img width="70%" alt="Demo" src="README/setAvailability.png" />
+<img alt="Demo" src="README/setRegularTimeTable.png" />
+<img alt="Demo" src="README/setAvailability.png" />
 
 7. Fill and prepare time table for the day with the help of indicators ( yellow color: absent teacher, blue: same teacher for more than one class ).
 
 8. `Save` the time table pdf.
 
-<img width="70%" alt="Demo" src="README/createTimeTable.png" />
-<img width="70%" alt="Demo" src="README/timeTablePDF.png" />
+<img alt="Demo" src="README/createTimeTable.png" />
+<img alt="Demo" src="README/timeTablePDF.png" />
 
 ### Show your support
 
